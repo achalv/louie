@@ -9,7 +9,7 @@ Louie...
 - auto-reloads pages when changes are made
 - allows cross-device testing with BrowserSync
 - can optimize image assets (.gif, .jpeg, .png and .svg)
-- can deploy your site to [Surge](https://www.surge.sh/).
+- can deploy your site to [Surge](https://surge.sh/).
 
 ## Getting started
 
@@ -48,7 +48,7 @@ Louie understands the following commands:
 
 - Run`gulp` to build the project. By default, Louie watches for changes as well.
 - Run `gulp clean` to delete your current `_build` folder.
-- Run `gulp deploy` to deploy your current `_build` folder to [Surge](https://www.surge.sh/). You'll need an account with Surge to do this.
+- Run `gulp deploy` to deploy your current `_build` folder to [Surge](https://surge.sh/). You'll need an account with Surge to do this.
 
 This is how Louie's structured:
 
